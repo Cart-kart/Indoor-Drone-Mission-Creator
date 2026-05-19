@@ -6,7 +6,7 @@ This file provides guidance to Claude Code when working in this repository.
 
 Stores and generates Avilon Photon indoor drone mission files from warehouse shelf layout data.
 
-- **Related repos:** Cart-kart/Yusen-Drone-Dashboard, Cart-kart/HD-DHL-Drone-Dashboard
+- **Related repos:** Cart-kart/Amazon-Yusen-Drone-Dashboard, Cart-kart/HarleyDavidson-DHL-Drone-Dashboard
 - **IMPORTANT:** X/Y/Z coordinates, transit heights, aisle widths, and bay positions are site-specific. Do not assume values from one site apply to another.
 
 ## File Types
